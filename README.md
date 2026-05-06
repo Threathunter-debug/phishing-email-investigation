@@ -70,3 +70,27 @@ report/       -> Final incident report
 - Incident Response
 - Security Documentation
 - Email Security Investigation
+
+---
+
+## Investigation Screenshots
+
+### Email Preview Analysis
+
+![Email Preview](screenshots/defender-email-preview.png)
+
+### Similar Emails Investigation
+
+![Similar Emails](screenshots/similar-emails-analysis.png)
+
+### URL Analysis
+
+![URL Analysis](screenshots/url-analysis.png)
+
+### Header & Detection Review
+
+![Header Analysis](screenshots/header-analysis.png)
+
+### IOC & Related Entity Review
+
+![IOC Review](screenshots/ioc-review.png)
